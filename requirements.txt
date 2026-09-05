@@ -1,2 +1,5 @@
 Python3.10+
 Pygame 
+venv
+pip3 package
+files
