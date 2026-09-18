@@ -30,7 +30,7 @@ git clone https://github.com/your-username/bytefall.git
 cd bytefall
 python3 -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements
 ```
 
 On Windows, activate the virtual environment with:
